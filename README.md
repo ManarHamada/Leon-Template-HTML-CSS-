@@ -1,2 +1,2 @@
-# Leon-Template-HTML-CSS-
+# Leon-Template-HTML-CSS
 HTML and CSS design
